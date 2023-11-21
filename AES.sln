@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AES", "AES\AES.csproj", "{70C58C85-8064-4906-B5CD-96DFB1735F9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AES.Tests", "AES.Tests\AES.Tests.csproj", "{7BABD8C3-BEFD-464E-B22F-7FFE4D557563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70C58C85-8064-4906-B5CD-96DFB1735F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C58C85-8064-4906-B5CD-96DFB1735F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C58C85-8064-4906-B5CD-96DFB1735F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C58C85-8064-4906-B5CD-96DFB1735F9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BABD8C3-BEFD-464E-B22F-7FFE4D557563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BABD8C3-BEFD-464E-B22F-7FFE4D557563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BABD8C3-BEFD-464E-B22F-7FFE4D557563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BABD8C3-BEFD-464E-B22F-7FFE4D557563}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71FF2144-941B-45A4-B650-4A40EC6F7665}
+	EndGlobalSection
+EndGlobal
